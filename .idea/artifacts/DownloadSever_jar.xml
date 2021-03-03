@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DownloadSever:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DownloadSever_jar</output-path>
+    <root id="archive" name="DownloadSever.jar">
+      <element id="module-output" name="DownloadSever" />
+    </root>
+  </artifact>
+</component>
